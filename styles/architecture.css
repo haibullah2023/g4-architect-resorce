@@ -137,9 +137,16 @@ main {
     color: #fff;
     width: 342px;
     padding: 40px;
+    text-align: center;
+    position: relative;
+    bottom: 100px;
 }
 .ten-years-badge h1{
     font-size: 4rem;
+    margin: 0;
+}
+.ten-years-badge p{
+    font-size: 1.5rem;
 }
 /* fact section  */
 .facts-card-container {
